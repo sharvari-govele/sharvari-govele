@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvari-govele&label=Profile%20views&color=0e75b6&style=flat" alt="sharvari-govele" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m Frontend Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharvari-govele](https://github.com/sharvari-govele)
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Angular, Typescript**
 
 - 📫 How to reach me **sharvarigovele777@gmail.com**
 
